@@ -15,19 +15,6 @@ A full-stack web application for managing employees with CRUD operations, built 
 
 ---
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-
----
-
 ## 🎯 About
 
 This project is a comprehensive Employee Management System built to demonstrate CRUD (Create, Read, Update, Delete) operations in a backend-focused architecture.
