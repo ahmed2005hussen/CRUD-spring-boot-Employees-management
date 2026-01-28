@@ -5,7 +5,6 @@ A full-stack web application for managing employees with CRUD operations, built 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 👨‍💻 Author
 
